@@ -14,3 +14,6 @@ warp = "0.3.6"
 watch = "0.2.3"
 # We can omit the version number for local imports
 handle-errors = { path = "handle-errors" }
+log = "0.4.20"
+env_logger = "0.10.0"
+log4rs = "1.2.0"
